@@ -18,15 +18,15 @@ An advanced todo application that combines modern UI/UX with artificial intellig
 ## 📸 Screenshots
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-    <img src="../frontend/assets/screenshots/task1.png" alt="Tasks Screen" width="200"/>
-    <img src="./assets/screenshots/task2.png" alt="Tasks Screen" width="200"/>
-    <img src="./assets/screenshots/task3.png" alt="Tasks Screen" width="200"/>
-    <img src="./assets/screenshots/task4.png" alt="Tasks Screen" width="200"/>
-    <img src="./assets/screenshots/bucket1.png" alt="Bucket List" width="200"/>
-    <img src="./assets/screenshots/bucket2.png" alt="Bucket List" width="200"/>
+    <img src="https://raw.githubusercontent.com/Vaishnavi362000/AI-Powered-Todo-Application/main/frontend/assets/screenshots/task1.png" alt="Tasks Screen" width="200"/>
+    <img src="https://raw.githubusercontent.com/Vaishnavi362000/AI-Powered-Todo-Application/main/frontend/assets/screenshots/task2.png" alt="Tasks Screen" width="200"/>
+    <img src="https://raw.githubusercontent.com/Vaishnavi362000/AI-Powered-Todo-Application/main/frontend/assets/screenshots/task3.png" alt="Tasks Screen" width="200"/>
+    <img src="https://raw.githubusercontent.com/Vaishnavi362000/AI-Powered-Todo-Application/main/frontend/assets/screenshots/task4.png" alt="Tasks Screen" width="200"/>
+    <img src="https://raw.githubusercontent.com/Vaishnavi362000/AI-Powered-Todo-Application/main/frontend/assets/screenshots/bucket1.png" alt="Bucket List" width="200"/>
+    <img src="https://raw.githubusercontent.com/Vaishnavi362000/AI-Powered-Todo-Application/main/frontend/assets/screenshots/bucket2.png" alt="Bucket List" width="200"/>
     <img src="https://raw.githubusercontent.com/Vaishnavi362000/AI-Powered-Todo-Application/main/frontend/assets/screenshots/habit1.png" alt="Habits Screen" width="200"/>
-    <img src="./assets/screenshots/habit2.png" alt="Habits Screen" width="200"/>
-    <img src="./assets/screenshots/setting1.png" alt="Settings" width="200"/>
+    <img src="https://raw.githubusercontent.com/Vaishnavi362000/AI-Powered-Todo-Application/main/frontend/assets/screenshots/habit2.png" alt="Habits Screen" width="200"/>
+    <img src="https://raw.githubusercontent.com/Vaishnavi362000/AI-Powered-Todo-Application/main/frontend/assets/screenshots/setting1.png" alt="Settings" width="200"/>
 </div>
 
 ## 🤖 AI/ML Integration
