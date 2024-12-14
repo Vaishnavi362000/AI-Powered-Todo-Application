@@ -1,0 +1,42 @@
+[
+  {
+    "task": "Go for a morning run",
+    "category": "health",
+    "similarity_score": 0.3662637770175934,
+    "similar_habits": [
+      "Morning workout"
+    ]
+  },
+  {
+    "task": "Study for 1 hour",
+    "category": "productivity",
+    "similarity_score": 0.3328638970851898,
+    "similar_habits": [
+      "Morning workout",
+      "Evening meditation"
+    ]
+  },
+  {
+    "task": "Meditate for 10 minutes",
+    "category": "health",
+    "similarity_score": 0.3313482701778412,
+    "similar_habits": [
+      "Evening meditation"
+    ]
+  },
+  {
+    "task": "Plan your day",
+    "category": "productivity",
+    "similarity_score": 0.32831403613090515,
+    "similar_habits": []
+  },
+  {
+    "task": "Practice mindfulness",
+    "category": "health",
+    "similarity_score": 0.3277073800563812,
+    "similar_habits": [
+      "Morning workout",
+      "Read books"
+    ]
+  }
+]
