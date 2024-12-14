@@ -168,7 +168,7 @@ mkdir -p assets/screenshots
 ---
 
 <p align="center">
-  Made with ❤️ by [Your Name]
+  Made with ❤️ by Vaishnavi K
 </p>
 ```
 
