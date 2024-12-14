@@ -18,7 +18,7 @@ An advanced todo application that combines modern UI/UX with artificial intellig
 ## 📸 Screenshots
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-    <img src="./assets/screenshots/task1.png" alt="Tasks Screen" width="200"/>
+    <img src="../frontend/assets/screenshots/task1.png" alt="Tasks Screen" width="200"/>
     <img src="./assets/screenshots/task2.png" alt="Tasks Screen" width="200"/>
     <img src="./assets/screenshots/task3.png" alt="Tasks Screen" width="200"/>
     <img src="./assets/screenshots/task4.png" alt="Tasks Screen" width="200"/>
